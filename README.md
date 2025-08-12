@@ -1,7 +1,7 @@
 
 <div >
   <H1>Ola eu sou Carlos Felipe Ramos Pires</H1>
-  <h3>Estudante</h2>
+  <h2>Estudante</h2>
   <p><b>IF-RS Porto Alegre: </b> Sistemas para internet</p>
 </div>
 <div align="center">
